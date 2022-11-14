@@ -1,4 +1,5 @@
 ![test](https://github.com/kumemin/robosys2022/actions/workflows/test.yml/badge.svg)
+
 # robosys2022
 * ロボットシステム学の練習リポジトリ
 * install
@@ -28,7 +29,7 @@ $ seq 5 | ./plus #5の部分は任意の正の整数、または小数を入力
 ```
 ## LICENSE
 * このソフトウェアパッケージは，3条項BSDライセンスの下，再頒布および使用が許可されます．
-  * このパッケージは，aaa由来のコード（© 2022 Hoge Fuge）を利用しています．
-  * このパッケージのコードは，下記のスライド（CC-BY-SA 4.0 by Ryuichi Ueda）のものを，本人の許可を得て自身の著作としたものです．
-    * [ryuichiueda/my_slides robosys_2022](https://github.com/ryuichiueda/my_slides/tree/master/robosys_2022)
-  * © 2022 Mizuki Kume
+* このパッケージは，aaa由来のコード（© 2022 Hoge Fuge）を利用しています．
+* このパッケージのコードは，下記のスライド（CC-BY-SA 4.0 by Ryuichi Ueda）のものを，本人の許可を得て自身の著作としたものです．
+  * [ryuichiueda/my_slides robosys_2022](https://github.com/ryuichiueda/my_slides/tree/master/robosys_2022)
+* © 2022 Mizuki Kume
