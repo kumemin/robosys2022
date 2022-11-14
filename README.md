@@ -13,7 +13,7 @@ $ cd robosys2022
   * テスト済み:Python 3.7〜3.10
 * OS
   * Ubuntu
-    * [ダウンロード](https;//jp.ubuntu.com/download)
+    * [ダウンロード](https://jp.ubuntu.com/download)
 
 ## 動作確認済み環境
 * Ubuntu18.04
