@@ -3,12 +3,17 @@
 # SPDX-License-Identifier: BSD-3-Clause
 import sys
 
-ans = 0
+Ans = 0
+Bin = 0
+Hex = 0
 
 for line in sys.stdin:
     try:
-        ans += int(line)
+        Ans += int(line)
     except:
-        ans += float(line)
+        Ans += float(line)
 
-print(ans)
+Bin = bin(Ans)
+Hex = hex(Ans)
+
+print(Ans,Bin,Hex)
