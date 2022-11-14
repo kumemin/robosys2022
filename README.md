@@ -9,7 +9,7 @@ $ cd robosys2022
 
 ## 必要なソフトウェア
 * Python
-  * テスト済み: 3.7〜3.10
+  * テスト済み:Python 3.7〜3.10
 * OS
   * Ubuntu
     * [ダウンロード](https;//jp.ubuntu.com/download)
