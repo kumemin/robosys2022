@@ -2,10 +2,10 @@
 # robosys2022
 * ロボットシステム学の練習リポジトリ
 * install
-
+```
 $ git clone git@github.com:kumemin/robosys2022.git
 $ cd robosys2022
-
+```
 
 ## 必要なソフトウェア
 * Python
@@ -22,10 +22,10 @@ $ cd robosys2022
 * [plus](https://github.com/kumemin/robosys2022/blob/main/plus)
 * 使い方:
  seq 5 | ./plus と入力
-
+```
 $ seq 5 | ./plus #5の部分は任意の正の整数、または小数を入力
 15 0b1111 0xf # 1 + 2 + ... + 5 の和。またその和の2進数表示と16進数表示
-
+```
 ## LICENSE
 * このソフトウェアパッケージは，3条項BSDライセンスの下，再頒布および使用が許可されます．
   * このパッケージは，aaa由来のコード（© 2022 Hoge Fuge）を利用しています．
