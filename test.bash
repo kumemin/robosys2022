@@ -10,8 +10,8 @@ ng () {
 res=0
 
 ### I/O TEST ###
-out=$(seq 5 | ./plus)
-[ "${out}" = "15 0b1111 0xf" ] || ng ${LINENO}
+out=$(seq 5 | ./plus) #
+[ "${out}" = "15 0b1111 0xf" ] || ng ${LINENO} #seq 5 | ./plusで"15 0b1111 0xf"が出れば成功
 
 ### STRANGE INPUT ###
 out=$(echo あ | ./plus)

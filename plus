@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 # SPDX-FileCopyrightText: 2022 Mizuki Kume
 # SPDX-License-Identifier: BSD-3-Clause
+
 import sys
 
 Ans = 0 
@@ -8,6 +9,7 @@ Bin = 0
 Hex = 0 
 
 for line in sys.stdin: #標準入力
+
     try:
         Ans += int(line)
     except:
