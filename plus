@@ -3,9 +3,9 @@
 # SPDX-License-Identifier: BSD-3-Clause
 import sys
 
-Ans = 0
-Bin = 0
-Hex = 0
+Ans = 0 
+Bin = 0 
+Hex = 0 
 
 for line in sys.stdin:
     try:
@@ -16,4 +16,4 @@ for line in sys.stdin:
 Bin = bin(Ans)
 Hex = hex(Ans)
 
-print(Ans,Bin,Hex)
+print(Ans,Bin,Hex) #出力

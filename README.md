@@ -1,10 +1,10 @@
 ![test](https://github.com/kumemin/robosys2022/actions/workflows/test.yml/badge.svg)
 
 # robosys2022
-* ロボットシステム学の練習リポジトリ
-* install
+* ロボットシステム学の練習用のリポジトリです。
+* インストール方法
 ```
-$ git clone git@github.com:kumemin/robosys2022.git
+$ git clone https://github.com/kumemin/robosys2022
 $ cd robosys2022
 ```
 
@@ -28,7 +28,7 @@ $ seq 5 | ./plus #5の部分は任意の正の整数、または小数を入力
 15 0b1111 0xf # 1 + 2 + ... + 5 の和。またその和の2進数表示と16進数表示
 ```
 ## LICENSE
-* このソフトウェアパッケージは，3条項BSDライセンスの下，再頒布および使用が許可されます．
+* このソフトウェアパッケージは，三条項BSDライセンスの下，再配布および使用が許可されています．
 * このパッケージは，aaa由来のコード（© 2022 Hoge Fuge）を利用しています．
 * このパッケージのコードは，下記のスライド（CC-BY-SA 4.0 by Ryuichi Ueda）のものを，本人の許可を得て自身の著作としたものです．
   * [ryuichiueda/my_slides robosys_2022](https://github.com/ryuichiueda/my_slides/tree/master/robosys_2022)
