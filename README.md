@@ -21,8 +21,7 @@ $ cd robosys2022
 ## plusコマンド
 標準入力から読み込んだ数字の和とその2進数表示と16進数表示
 * [plus](https://github.com/kumemin/robosys2022/blob/main/plus)
-* 使い方:
- seq 5 | ./plus と入力
+* 使い方:seq 5 | ./plus と入力
 ```
 $ seq 5 | ./plus #5の部分は任意の正の整数、または小数を入力
 15 0b1111 0xf # 1 + 2 + ... + 5 の和。またその和の2進数表示と16進数表示
