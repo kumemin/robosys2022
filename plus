@@ -18,4 +18,4 @@ for line in sys.stdin: #標準入力
 Bin = bin(Ans)
 Hex = hex(Ans)
 
-print(Ans,Bin,Hex) #出力
+print(Ans,Bin,Hex) #出力結果
