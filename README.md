@@ -18,7 +18,7 @@ $ cd robosys2022
 ## 動作確認済み環境
 * Ubuntu18.04
 
-## plusコマンド
+# plusコマンド
 標準入力から読み込んだ数字の和とその2進数表示と16進数表示
 * [plus](https://github.com/kumemin/robosys2022/blob/main/plus)
 * 使い方:seq 5 | ./plus と入力
